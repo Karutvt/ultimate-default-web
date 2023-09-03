@@ -47,3 +47,4 @@ Commit #23 - Cherry Pick demo commit 2
 
 No more commits after this line.
 */Commit # 1 for Squash Merge Demo
+Commit # 2 for Squash Merge Demo
